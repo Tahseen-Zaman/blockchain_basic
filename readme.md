@@ -1,7 +1,3 @@
-Here's a README file to guide users on how to use this blockchain-based book checkout system.
-
----
-
 # Blockchain-Based Book Checkout System
 
 This application is a basic blockchain-based book checkout system, built with Go. It allows you to add books and checkout records to a blockchain, providing immutability and validation for each book checkout transaction.
@@ -135,4 +131,4 @@ For production-level applications, you would include tests to verify the blockch
 
 This project is licensed under the Open Source License.
 
-# Tahseen Zaman
+# Tahseen Zaman @Tahseen-Zaman
