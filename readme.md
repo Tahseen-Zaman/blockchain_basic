@@ -133,8 +133,6 @@ For production-level applications, you would include tests to verify the blockch
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Open Source License.
 
----
-
-This README provides a clear overview, setup instructions, endpoint usage, and future development ideas. Feel free to customize the details based on your specific repository and development requirements!
+# Tahseen Zaman
